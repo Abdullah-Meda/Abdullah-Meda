@@ -1,25 +1,22 @@
-<h1 align="center">Hi, guys!👋</h1>
+ # <a href="https://www.linkedin.com/in/abdmeda/">Abdullah Meda</a>
 
-<p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Abdullah<br>
-        I'm currently sharpening my skills in ML/DL, always excited to overcome new challenges.<br>
-        I'm open to collaborations on projects that are innovative and push the boundaries of technology.<br>
-    </i><br>
-    <a href="https://www.linkedin.com/in/abdmeda/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="mailto:abdullah.meda@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
-    <a href="https://www.kaggle.com/abdullahmeda">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
-    </a>
-    <a href="https://medium.com/@meda.abdullah">
-        <img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium" alt="Medium">
-    </a>
-</p>
+Machine Learning Enthusiast specializing in Computer Vision and NLP. Proficient in designing data-driven solutions to optimize efficiency and accuracy. Eager to apply innovative strategies and problem-solving expertise to overcome business obstacles.
+
+<a href="https://www.linkedin.com/in/abdmeda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="mailto:abdullah.meda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+</a>
+<a href="https://www.kaggle.com/abdullahmeda">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+</a>
+<a href="https://medium.com/@meda.abdullah">
+    <img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium" alt="Medium">
+</a>
+
+</br>
+</br>
 
 ### Languages
 
